@@ -1,0 +1,16 @@
+{
+  "name": "nodebackened",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/express.js",
+    "dev":"nodemon src/express.js"
+
+  },
+  "author": "naveen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
