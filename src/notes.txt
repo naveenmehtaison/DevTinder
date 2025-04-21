@@ -1,0 +1,2 @@
+nodeman is iused for autoupdataing server wheneverer changed use command npm run dev fro that
+//connectrequest/status/id
