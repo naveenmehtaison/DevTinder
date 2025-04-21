@@ -1,0 +1,21 @@
+##authapi
+post  api/login
+ post api/logout
+post api/signup
+
+##profileapi
+get --> api/profile/feed
+patch --> api/profile/edit
+patch -->api/profile/edit/password
+
+
+##RequestApi
+profile--> api/profile/sent/intrested/:userid
+profile--> api/profile/sent/ignored/:userid
+profile--> api/profile/review/accept/:requestid
+profile--> api/profile/reveiw/rejected/:requestid
+
+##
+
+
+
